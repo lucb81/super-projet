@@ -4,5 +4,11 @@
   box-sizing: border-box;
   background: salmon;
   color: white;
+  list-style-type: none;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
